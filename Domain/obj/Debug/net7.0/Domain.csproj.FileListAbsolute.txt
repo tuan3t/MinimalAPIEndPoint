@@ -1,0 +1,11 @@
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\bin\Debug\net7.0\Domain.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\Domain.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\Domain\obj\Debug\net7.0\ref\Domain.dll

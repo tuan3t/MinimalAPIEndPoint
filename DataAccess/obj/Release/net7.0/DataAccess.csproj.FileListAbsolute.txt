@@ -1,0 +1,17 @@
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\bin\Release\net7.0\DataAccess.deps.json
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\bin\Release\net7.0\DataAccess.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\bin\Release\net7.0\DataAccess.pdb
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\bin\Release\net7.0\Domain.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\bin\Release\net7.0\Domain.pdb
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.AssemblyInfo.cs
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.csproj.CopyComplete
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\refint\DataAccess.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\DataAccess.pdb
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\obj\Release\net7.0\ref\DataAccess.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\bin\Release\net7.0\Application.dll
+D:\Coding_Document\ASP.NET Core\Project\MinimalAPICoureYT\DataAccess\bin\Release\net7.0\Application.pdb
